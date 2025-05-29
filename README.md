@@ -2,6 +2,8 @@
 
 A lightweight encryption tool to safely store and manage your **XRP wallet seeds**, built with protection against malware in mind.
 
+![image](https://github.com/user-attachments/assets/64734dd9-70af-4307-abcc-6b547e38655f)
+
 ---
 
 ## 📦 Requirements
