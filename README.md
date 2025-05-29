@@ -12,7 +12,7 @@ Install the only dependency using:
 pip install pycryptodome==3.22.0
 ```
 
-# 🔧 Integration Example
+## 🔧 Integration Example
 Easily integrate it into your project:
 ```python
 from getpass import getpass
@@ -34,7 +34,7 @@ print(seeds)
 
 ```
 
-# ⚠️ Warning
+## ⚠️ Warning
 This tool does not store backups.
 
 Keep copies of your encrypted seed file in a safe location.
